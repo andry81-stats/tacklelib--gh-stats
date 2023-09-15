@@ -1,21 +1,21 @@
 {
-  "count": 15,
+  "count": 10,
   "uniques": 4,
   "views": [
-    {
-      "timestamp": "2023-08-28T00:00:00Z",
-      "count": 7,
-      "uniques": 2
-    },
-    {
-      "timestamp": "2023-08-30T00:00:00Z",
-      "count": 2,
-      "uniques": 1
-    },
     {
       "timestamp": "2023-09-06T00:00:00Z",
       "count": 6,
       "uniques": 1
+    },
+    {
+      "timestamp": "2023-09-10T00:00:00Z",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2023-09-11T00:00:00Z",
+      "count": 2,
+      "uniques": 2
     }
   ]
 }
